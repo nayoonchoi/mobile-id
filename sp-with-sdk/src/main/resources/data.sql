@@ -1,0 +1,2 @@
+INSERT INTO tb_service (svcCode,presentType,authType,spName,serviceName,attrList,predList,callBackUrl,regDt,udtDt) VALUES
+    ('sangin.1', 1, NULL, '상추', '서비스1-일반인증', NULL, NULL, NULL, '2023-08-01 15:08:15.0', NULL);
